@@ -1,0 +1,69 @@
+#slider-image{
+	height:500px;
+}
+
+#mynav2{
+
+	padding:20px;
+	color:white;
+	border: 1px solid violet;
+	border-radius:50px;
+	background: violet;
+	padding: 
+
+	
+}
+#mynav2:hover{
+
+	color:purple;
+	border:0px;
+	box-shadow: 0 0 20px purple;
+	background: none;
+	
+}
+
+#mynav{
+
+	padding:20px;
+	color:black;
+	border: 1px solid violet;
+	border-radius:50px;
+	background: violet;
+	padding: 
+
+	
+}
+#mynav:hover{
+
+	color:white;
+	border:0px;
+	box-shadow: 0 0 20px violet;
+	background: none;
+	
+}
+
+
+#para{
+	background: rgba(50, 0, 50, 0.8) !important;
+	height: auto;
+}
+
+#mynav3{
+
+	padding:20px;
+	color:white;
+	border: 1px solid violet;
+	border-radius:50px;
+	background: violet;
+	padding: 
+
+	
+}
+#mynav3:hover{
+
+	color:white;
+	border:0px;
+	box-shadow: 0 0 20px purple;
+	background: none;
+	
+}
